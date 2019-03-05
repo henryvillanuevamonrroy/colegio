@@ -136,7 +136,7 @@ p::selection
 }
 h1{font-size: 36px;}
 h2{font-size: 22px;}
-h3{font-size: 18px;}
+h3{font-size: 12px;}
 h4{font-size: 14px;}
 h5{font-size: 11px;}
 h1, h2, h3, h4, h5, h6
@@ -288,7 +288,7 @@ section
 	-ms-transform: translateX(-50%);
 	-o-transform: translateX(-50%);
 	transform: translateX(-50%);
-	width: 1318px;
+	width: 1312px;
 	height: 104px;
 	background: #FFFFFF;
 	z-index: 10;
@@ -336,7 +336,7 @@ section
 .logo span
 {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 18px;
+	font-size: 12px;
 	font-weight: 900;
 	color: #3a3a3a;
 	vertical-align: middle;
@@ -404,7 +404,7 @@ section
 {
 	display: block;
 	position: relative;
-	font-size: 18px;
+	font-size: 12px;
 	font-weight: 500;
 	color: #FFFFFF;
 	padding-left: 12px;
@@ -991,7 +991,7 @@ section
 .course_price span
 {
 	color: #FFFFFF;
-	font-size: 18px;
+	font-size: 12px;
 	font-weight: 500;
 	margin-top: 7px;
 }
@@ -1300,7 +1300,7 @@ input:last-of-type
 	width: 131px;
 	height: 131px;
 	border: solid 2px #0040FF;
-	margin-bottom: 18px;
+	margin-bottom: 12px;
 }
 .event_day
 {
@@ -1433,7 +1433,7 @@ input:last-of-type
 }
 .footer_column_title
 {
-	font-size: 18px;
+	font-size: 12px;
 	font-weight: 500;
 	color: #FFFFFF;
 	padding-top: 15px;

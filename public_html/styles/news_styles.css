@@ -129,7 +129,7 @@ p::selection
 }
 h1{font-size: 36px;}
 h2{font-size: 22px;}
-h3{font-size: 18px;}
+h3{font-size: 12px;}
 h4{font-size: 14px;}
 h5{font-size: 11px;}
 h1, h2, h3, h4, h5, h6
@@ -281,7 +281,7 @@ section
 	-ms-transform: translateX(-50%);
 	-o-transform: translateX(-50%);
 	transform: translateX(-50%);
-	width: 1318px;
+	width: 1312px;
 	height: 104px;
 	background: #FFFFFF;
 	z-index: 10;
@@ -329,7 +329,7 @@ section
 .logo span
 {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 18px;
+	font-size: 12px;
 	font-weight: 900;
 	color: #3a3a3a;
 	vertical-align: middle;
@@ -397,7 +397,7 @@ section
 {
 	display: block;
 	position: relative;
-	font-size: 18px;
+	font-size: 12px;
 	font-weight: 500;
 	color: #FFFFFF;
 	padding-left: 12px;
@@ -670,7 +670,7 @@ section
 	transform: translateX(-50%);
 	background: #5882FA;
 	padding-top: 24px;
-	padding-bottom: 18px;
+	padding-bottom: 12px;
 	padding-left: 39px;
 	padding-right: 42px;
 }
@@ -753,7 +753,7 @@ section
 {
 	width: 100%;
 	padding-top: 103px;
-	padding-bottom: 118px;
+	padding-bottom: 112px;
 }
 .news_post
 {
@@ -853,7 +853,7 @@ section
 	width: 188px;
 	height: 53px;
 	background: #5882FA;
-	margin-top: 18px;
+	margin-top: 12px;
 }
 .news_post_button a
 {
@@ -970,7 +970,7 @@ section
 }
 .latest_post_title a
 {
-	font-size: 18px;
+	font-size: 12px;
 	font-weight: 500;
 	color: #1a1a1a;
 }
@@ -1113,7 +1113,7 @@ section
 }
 .footer_column_title
 {
-	font-size: 18px;
+	font-size: 12px;
 	font-weight: 500;
 	color: #FFFFFF;
 	padding-top: 15px;
