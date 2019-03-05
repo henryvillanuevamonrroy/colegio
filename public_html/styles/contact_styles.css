@@ -125,7 +125,7 @@ p::selection
 }
 h1{font-size: 36px;}
 h2{font-size: 22px;}
-h3{font-size: 12px;}
+h3{font-size: 18px;}
 h4{font-size: 14px;}
 h5{font-size: 11px;}
 h1, h2, h3, h4, h5, h6
@@ -277,7 +277,7 @@ section
 	-ms-transform: translateX(-50%);
 	-o-transform: translateX(-50%);
 	transform: translateX(-50%);
-	width: 1312px;
+	width: 1318px;
 	height: 104px;
 	background: #FFFFFF;
 	z-index: 10;
@@ -325,7 +325,7 @@ section
 .logo span
 {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 30px;
+	font-size: 23px;
 	font-weight: 900;
 	color: #3a3a3a;
 	vertical-align: middle;
@@ -393,7 +393,7 @@ section
 {
 	display: block;
 	position: relative;
-	font-size: 12px;
+	font-size: 18px;
 	font-weight: 500;
 	color: #FFFFFF;
 	padding-left: 12px;
@@ -666,7 +666,7 @@ section
 	transform: translateX(-50%);
 	background: #ffb606;
 	padding-top: 24px;
-	padding-bottom: 12px;
+	padding-bottom: 18px;
 	padding-left: 39px;
 	padding-right: 42px;
 }
@@ -955,7 +955,7 @@ section
 }
 .footer_column_title
 {
-	font-size: 12px;
+	font-size: 18px;
 	font-weight: 500;
 	color: #FFFFFF;
 	padding-top: 15px;
